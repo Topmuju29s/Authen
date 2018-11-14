@@ -1,0 +1,21 @@
+.bg1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  box-sizing: inherit;
+}
+
+.bg2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg3{
+  background-color: #ececec;
+  height: 100%;
+  box-shadow: #ececec 0.1em 0.0em 0.1em;
+  border-radius: 0.5em;
+  /* width: 70vh; */
+}
